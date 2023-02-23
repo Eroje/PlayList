@@ -27,7 +27,7 @@ function makeSound(key) {
 
   switch (key) {
     case "p":
-      var tom1 = new Audio("sounds/P-square.mp3");
+      var tom1 = new Audio("sounds/Teni-Hustle-(TrendyBeatz.com).mp3");
       tom1.play();
       break;
 
